@@ -1,7 +1,3 @@
-A solid `README.md` acts as the front door to your project. Since you are working in the [C-Programming](https://github.com/codewithsayanjit/C-Programming) repository, here is a professional, clean template you can copy and paste directly into the editor.
-
----
-
 # C Programming Collection
 
 A comprehensive collection of **C programming** examples, exercises, and projects. This repository is designed to help beginners understand the fundamentals and advanced concepts of C.
