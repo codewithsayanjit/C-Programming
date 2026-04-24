@@ -1,0 +1,25 @@
+// 2.	Write a C program to calculate Fibonacci series using function and recursive function.
+
+
+#include <stdio.h>
+int fibonacci(int n);
+int main() {
+    int number, i;
+    printf("Enter the number of terms : ");
+    scanf("%d", &number);
+    printf("Fibonacci Series:\n");
+    for (i = 0; i < number; i++) {
+        printf("%d ", fibonacci(i));
+    }
+    printf("\n");
+    return 0;
+}
+int fibonacci(int n) {
+    if (n == 0) {
+        return 0; 
+    } else if (n == 1) {
+        return 1; 
+    } else {
+        return fibonacci(n - 1) + fibonacci(n - 2); 
+    }
+}
