@@ -1,56 +1,57 @@
-# C Programming Collection
+# C Programming Practice Set 🚀
 
-A comprehensive collection of **C programming** examples, exercises, and projects. This repository is designed to help beginners understand the fundamentals and advanced concepts of C.
+Welcome to the **C Programming Practice Set**! This repository is a curated collection of C programs ranging from basic syntax to advanced data structures, designed to help developers sharpen their logic and coding skills.
 
-## 🚀 Getting Started
+## 📌 Features
+* **Structured Learning:** Organized by topic (Fundamentals, Loops, Arrays, Pointers, etc.).
+* **Clean Code:** Focused on readability and standard C practices.
+* **Beginner Friendly:** Clear comments explaining the logic behind each snippet.
+
+---
+
+## 🛠️ Getting Started
 
 ### Prerequisites
-To run these programs, you will need a C compiler installed on your system:
-* **GCC** (GNU Compiler Collection)
-* **Clang**
-* **MinGW** (for Windows)
+To run these programs, you'll need a C compiler installed on your system:
+* [GCC](https://gcc.gnu.org/) (GNU Compiler Collection)
+* [Clang](https://clang.llvm.org/)
+* [MinGW](https://www.mingw-w64.org/) (Recommended for Windows users)
 
-### How to Compile and Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/codewithsayanjit/C-Programming.git
-   ```
-2. Navigate to the specific file directory.
-3. Compile using GCC:
-   ```bash
-   gcc filename.c -o output
-   ```
-4. Run the executable:
-   ```bash
-   ./output
-   ```
+### How to Use
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/codewithsayanjit/C-Programming-Practice-Set.git
+    ```
+2.  **Navigate to a specific directory:**
+    ```bash
+    cd C-Programming-Practice-Set/Logic-Building
+    ```
+3.  **Compile and Run:**
+    ```bash
+    gcc filename.c -o output
+    ./output
+    ```
 
 ---
 
 ## 📂 Repository Structure
-
 | Category | Description |
 | :--- | :--- |
-| **Basics** | Syntax, Variables, and Data Types |
-| **Control Flow** | If-Else, Loops, and Switch cases |
-| **Functions** | Modular programming and Recursion |
-| **Data Structures** | Arrays, Strings, and Structs |
-| **Advanced** | Pointers and Memory Management |
+| **Basic Syntax** | Variables, Data Types, and Operators. |
+| **Control Flow** | If-Else statements and Switch cases. |
+| **Loops** | For, While, and Do-While practice problems. |
+| **Functions** | Modular programming and Recursion. |
+| **Arrays & Strings** | Buffer management and multi-dimensional arrays. |
 
 ---
-
-## 🛠 Built With
-* [C Language](https://en.cppreference.com/w/c) - The core programming language.
-* [GCC](https://gcc.gnu.org/) - The compiler used for testing.
 
 ## 🤝 Contributing
-Contributions are welcome! If you have a better way to solve a problem or a new example to add:
+Contributions are what make the open-source community such an amazing place to learn! 
 1. Fork the Project.
-2. Create your Feature Branch.
-3. Commit your Changes.
-4. Push to the Branch.
+2. Create your Feature Branch (`git checkout -b feature/NewProgram`).
+3. Commit your Changes (`git commit -m 'Add some NewProgram'`).
+4. Push to the Branch (`git push origin feature/NewProgram`).
 5. Open a Pull Request.
 
----
-
-> **Note:** This repository is for educational purposes. Feel free to use the code for your own learning and projects!
+## 📄 License
+Distributed under the MIT License. See `LICENSE` for more information.
