@@ -1,82 +1,176 @@
-# C Programming Practice Set
+# 💻 C Programming Practice Set
 
-A structured repository containing a diverse collection of C programs, ranging from fundamental logic building to advanced mathematical algorithms and complex pattern printing. This project is ideal for mastering nested loops, recursion, and data manipulation in C.
+A comprehensive collection of **C programming programs, assignments, algorithms, and pattern-printing exercises** designed for beginners and students learning programming fundamentals.
 
-## 🌟 Highlights
+This repository contains solutions to common academic problems and practical exercises that help strengthen problem-solving and programming skills in C.
 
-  * **Logic Masterclass:** 20+ unique pattern printing scripts including [Floyd's Triangle](https://github.com/codewithsayanjit/C-Programming-Practice-Set/blob/main/Pattern/Floyd_Triangle_Number.c) and [Rhombus structures](https://github.com/codewithsayanjit/C-Programming-Practice-Set/blob/main/Pattern/Rohmbus_Pattern_Star.c).
-  * **Algorithmic Foundations:** Implementations of essential sorting algorithms like [Bubble Sort](https://github.com/codewithsayanjit/C-Programming-Practice-Set/blob/main/Assignment/Bubble_Sort.c) and [Insertion Sort](https://github.com/codewithsayanjit/C-Programming-Practice-Set/blob/main/Assignment/Insertion_Sort.c).
-  * **Problem Solving:** Solutions for classic computational problems like the [Tower of Hanoi](https://github.com/codewithsayanjit/C-Programming-Practice-Set/blob/main/Assignment/Tower_of_Hanoi.c) and Matrix operations.
-  * **Real-world Logic:** Mini-apps including a [Library Management System](https://github.com/codewithsayanjit/C-Programming-Practice-Set/blob/main/Assignment/Library_Management_System.c) and [Student Mark Management](https://www.google.com/search?q=https://github.com/codewithsayanjit/C-Programming-Practice-Set/blob/main/Assignment/Student_Mark_Management_System.c).
+## 📚 About
 
------
+This repository covers:
+
+* Basic C Programming
+* Conditional Statements
+* Loops
+* Functions
+* Recursion
+* Arrays
+* Matrices
+* Sorting Algorithms
+* Pattern Printing
+* Mini Projects
+* Academic Assignments
+
+It serves as a practice resource for students preparing for university exams, coding interviews, and programming fundamentals.
+
+---
 
 ## 📂 Repository Structure
 
-### 🔷 [Pattern Gallery](https://github.com/codewithsayanjit/C-Programming-Practice-Set/tree/main/Pattern)
+### 📝 Assignment Programs
 
-Focused on mastering nested loops and coordinate logic.
+Contains various C programming assignments such as:
 
-  * **Pyramids:** Full, Left-half, and Reversed pyramids using stars, numbers, and alphabets.
-  * **Triangles:** Right-angled variations including [lower/uppercase alphabet transitions](https://github.com/codewithsayanjit/C-Programming-Practice-Set/blob/main/Pattern/Right_Triangle_lower_uppercase_Alphabet.c).
-  * **Advanced Shapes:** Rhombus patterns and [custom triangle forms](https://github.com/codewithsayanjit/C-Programming-Practice-Set/blob/main/Pattern/Triangle_Form.c).
+* Odd or Even Number
+* Positive or Negative Number
+* Leap Year Check
+* Prime Number
+* Palindrome Number
+* Reverse Number
+* Factorial Program
+* Fibonacci Series
+* GCD Calculation
+* Simple Interest
+* Grade Calculation
+* Electric Bill System
+* Matrix Multiplication
+* Matrix Transpose
+* Bubble Sort
+* Insertion Sort
+* Library Management System
+* Student Mark Management System
+* School Maintain List
+* Store Product Prices
 
-### 🔷 [Assignments & Logic](https://github.com/codewithsayanjit/C-Programming-Practice-Set/tree/main/Assignment)
+---
 
-Focused on algorithmic efficiency and functional programming.
+### ⭐ Pattern Programs
 
-  * **Mathematical:** GCD, Prime checking, Palindromes, and Armstrong numbers.
-  * **Arrays & Matrices:** [Matrix Multiplication](https://github.com/codewithsayanjit/C-Programming-Practice-Set/blob/main/Assignment/Matrix_Multipication.c) and Transpose logic.
-  * **Recursion:** Factorials and Tower of Hanoi.
+Pattern printing exercises including:
 
------
+* Star Patterns
+* Number Patterns
+* Alphabet Patterns
+* Floyd's Triangle
+* Half Pyramid Patterns
+* Full Pyramid Patterns
+* Reverse Pyramid Patterns
+* Rhombus Patterns
+* Triangle Patterns
 
-## 🛠️ Usage
+Examples:
 
-### Prerequisites
+* Right Triangle Star Pattern
+* Left Half Pyramid Star Pattern
+* Floyd Triangle Number Pattern
+* Full Pyramid Number Pattern
+* Reverse Full Pyramid Star Pattern
+* Rhombus Alphabet Pattern
 
-You need a C compiler (GCC) installed. To check if you have it:
+---
+
+## 🚀 Features
+
+✅ Beginner-Friendly Programs
+
+✅ Well-Organized Folder Structure
+
+✅ Covers University-Level Practice Questions
+
+✅ Includes Sorting Algorithms
+
+✅ Includes Recursion Examples
+
+✅ Matrix Operations
+
+✅ Pattern Printing Collection
+
+---
+
+## 🛠️ Technologies Used
+
+* C Programming Language
+* GCC Compiler
+* Visual Studio Code
+
+---
+
+## ⚙️ How to Run
+
+### Clone the Repository
 
 ```bash
-gcc --version
+git clone https://github.com/codewithsayanjit/C-Programming-Practice-Set.git
 ```
 
-### Execution
+### Navigate to the Project
 
-1.  **Clone the repo:**
-    ```bash
-    git clone https://github.com/codewithsayanjit/C-Programming-Practice-Set.git
-    ```
-2.  **Compile a specific file (e.g., Bubble Sort):**
-    ```bash
-    gcc Assignment/Bubble_Sort.c -o BubbleSort
-    ```
-3.  **Run:**
-    ```bash
-    ./BubbleSort
-    ```
+```bash
+cd C-Programming-Practice-Set
+```
 
------
+### Compile a Program
 
-## 📊 Roadmap
+```bash
+gcc filename.c -o output
+```
 
-  - [x] Basic syntax & Operators
-  - [x] Pattern Printing (Nested Loops)
-  - [x] Array & Matrix Operations
-  - [x] Sorting Algorithms (Bubble, Insertion)
-  - [ ] File Handling & Pointers
-  - [ ] Data Structures (Linked Lists, Stacks)
+### Run the Program
 
-## 🤝 Contributing
+```bash
+./output
+```
 
-Contributions are what make the open-source community an amazing place to learn.
+For Windows:
 
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/NewLogic`)
-3.  Commit your Changes (`git commit -m 'Add some NewLogic'`)
-4.  Push to the Branch (`git push origin feature/NewLogic`)
-5.  Open a Pull Request
+```bash
+output.exe
+```
 
------
+---
 
-**Developed by [Sayanjit Jana](https://github.com/codewithsayanjit)** 🚀
+## 🎯 Learning Outcomes
+
+By practicing these programs, you will learn:
+
+* Problem Solving Techniques
+* C Syntax and Structure
+* Looping Concepts
+* Functions and Recursion
+* Array Manipulation
+* Matrix Operations
+* Sorting Algorithms
+* Pattern Logic Development
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create a new branch
+3. Add your improvements
+4. Commit your changes
+5. Open a Pull Request
+
+---
+
+## 👨‍💻 Author
+
+**Sayanjit Jana**
+
+GitHub: https://github.com/codewithsayanjit
+
+---
+
+⭐ If this repository helps you in learning C Programming, consider giving it a Star!
