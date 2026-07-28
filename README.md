@@ -1,56 +1,176 @@
-# C Programming Collection
+# 💻 C Programming Practice Set
 
-A comprehensive collection of **C programming** examples, exercises, and projects. This repository is designed to help beginners understand the fundamentals and advanced concepts of C.
+A comprehensive collection of **C programming programs, assignments, algorithms, and pattern-printing exercises** designed for beginners and students learning programming fundamentals.
 
-## 🚀 Getting Started
+This repository contains solutions to common academic problems and practical exercises that help strengthen problem-solving and programming skills in C.
 
-### Prerequisites
-To run these programs, you will need a C compiler installed on your system:
-* **GCC** (GNU Compiler Collection)
-* **Clang**
-* **MinGW** (for Windows)
+## 📚 About
 
-### How to Compile and Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/codewithsayanjit/C-Programming.git
-   ```
-2. Navigate to the specific file directory.
-3. Compile using GCC:
-   ```bash
-   gcc filename.c -o output
-   ```
-4. Run the executable:
-   ```bash
-   ./output
-   ```
+This repository covers:
+
+* Basic C Programming
+* Conditional Statements
+* Loops
+* Functions
+* Recursion
+* Arrays
+* Matrices
+* Sorting Algorithms
+* Pattern Printing
+* Mini Projects
+* Academic Assignments
+
+It serves as a practice resource for students preparing for university exams, coding interviews, and programming fundamentals.
 
 ---
 
 ## 📂 Repository Structure
 
-| Category | Description |
-| :--- | :--- |
-| **Basics** | Syntax, Variables, and Data Types |
-| **Control Flow** | If-Else, Loops, and Switch cases |
-| **Functions** | Modular programming and Recursion |
-| **Data Structures** | Arrays, Strings, and Structs |
-| **Advanced** | Pointers and Memory Management |
+### 📝 Assignment Programs
+
+Contains various C programming assignments such as:
+
+* Odd or Even Number
+* Positive or Negative Number
+* Leap Year Check
+* Prime Number
+* Palindrome Number
+* Reverse Number
+* Factorial Program
+* Fibonacci Series
+* GCD Calculation
+* Simple Interest
+* Grade Calculation
+* Electric Bill System
+* Matrix Multiplication
+* Matrix Transpose
+* Bubble Sort
+* Insertion Sort
+* Library Management System
+* Student Mark Management System
+* School Maintain List
+* Store Product Prices
 
 ---
 
-## 🛠 Built With
-* [C Language](https://en.cppreference.com/w/c) - The core programming language.
-* [GCC](https://gcc.gnu.org/) - The compiler used for testing.
+### ⭐ Pattern Programs
 
-## 🤝 Contributing
-Contributions are welcome! If you have a better way to solve a problem or a new example to add:
-1. Fork the Project.
-2. Create your Feature Branch.
-3. Commit your Changes.
-4. Push to the Branch.
-5. Open a Pull Request.
+Pattern printing exercises including:
+
+* Star Patterns
+* Number Patterns
+* Alphabet Patterns
+* Floyd's Triangle
+* Half Pyramid Patterns
+* Full Pyramid Patterns
+* Reverse Pyramid Patterns
+* Rhombus Patterns
+* Triangle Patterns
+
+Examples:
+
+* Right Triangle Star Pattern
+* Left Half Pyramid Star Pattern
+* Floyd Triangle Number Pattern
+* Full Pyramid Number Pattern
+* Reverse Full Pyramid Star Pattern
+* Rhombus Alphabet Pattern
 
 ---
 
-> **Note:** This repository is for educational purposes. Feel free to use the code for your own learning and projects!
+## 🚀 Features
+
+✅ Beginner-Friendly Programs
+
+✅ Well-Organized Folder Structure
+
+✅ Covers University-Level Practice Questions
+
+✅ Includes Sorting Algorithms
+
+✅ Includes Recursion Examples
+
+✅ Matrix Operations
+
+✅ Pattern Printing Collection
+
+---
+
+## 🛠️ Technologies Used
+
+* C Programming Language
+* GCC Compiler
+* Visual Studio Code
+
+---
+
+## ⚙️ How to Run
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/codewithsayanjit/C-Programming-Practice-Set.git
+```
+
+### Navigate to the Project
+
+```bash
+cd C-Programming-Practice-Set
+```
+
+### Compile a Program
+
+```bash
+gcc filename.c -o output
+```
+
+### Run the Program
+
+```bash
+./output
+```
+
+For Windows:
+
+```bash
+output.exe
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+By practicing these programs, you will learn:
+
+* Problem Solving Techniques
+* C Syntax and Structure
+* Looping Concepts
+* Functions and Recursion
+* Array Manipulation
+* Matrix Operations
+* Sorting Algorithms
+* Pattern Logic Development
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create a new branch
+3. Add your improvements
+4. Commit your changes
+5. Open a Pull Request
+
+---
+
+## 👨‍💻 Author
+
+**Sayanjit Jana**
+
+GitHub: https://github.com/codewithsayanjit
+
+---
+
+⭐ If this repository helps you in learning C Programming, consider giving it a Star!
